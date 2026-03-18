@@ -1,4 +1,4 @@
-# juppiter: Extreme-Conditions Lunar Perception Pipeline
+# diana: Extreme-Conditions Lunar Perception Pipeline
 
 A modular, multi-sensor perception stack for robotic systems operating in extreme environments. Built for lunar robotics applications targeting GNSS-denied, communication-delayed environments with redundant sensing (lidar + stereo + IMU) and graceful degradation under dust, thermal cycling, and harsh illumination.
 

@@ -1,4 +1,4 @@
-# Design — juppiter
+# Design — diana 
 
 Architecture and design decisions for the **Fault-Tolerant Multi-Sensor Perception System** with FDIIR (Fault Detection, Isolation, Identification, Recovery) principles and confidence-weighted sensor fusion.
 
